@@ -2,8 +2,6 @@
 <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
-<<<<<<< HEAD
-        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent" android:layout_height="match_parent"
         tools:context=".MainActivity"
         android:padding="30dp"
@@ -15,34 +13,6 @@
             android:layout_height="wrap_content"
             android:text="Swtich Button!"
             android:id="@+id/switchCompat01"/>
-=======
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        tools:context=".MainActivity"
-        android:padding="30dp"
-        android:id="@+id/root">
 
-    <RadioGroup
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/gender">
-
-        <RadioButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/radio_option_male"
-                android:id="@+id/male"
-                android:textSize="16sp"/>
-
-        <RadioButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/radio_option_female"
-                android:id="@+id/female"
-                android:textSize="16sp"/>
-
-    </RadioGroup>
->>>>>>> ac63540666b1e622409c3ced5818d76ac99d56f7
 
 </LinearLayout>
