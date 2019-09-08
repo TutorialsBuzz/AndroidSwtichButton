@@ -1,0 +1,12 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">AndroidSwtich</string>
+=======
+    <string name="app_name">AndroidRadioButton</string>
+
+
+    <string name="radio_option_male">Male</string>
+    <string name="radio_option_female">Female</string>
+
+>>>>>>> ac63540666b1e622409c3ced5818d76ac99d56f7
+</resources>
